@@ -1,0 +1,25 @@
+# CBP Q1 Assessment
+
+This is test program to paste a complex set of logs data and turn into CSV records.
+
+## Installation
+
+Java 8 and maven installed.
+
+## Build
+
+Build the project with maven compile.
+
+Input file is inside the resources folder.
+
+## execution 
+Run the Parse datafile runner.
+
+## Tip 
+Make sure you have deleted the output files, otherwise we throw an error.
+
+## Contributing
+Rob Allan rob.m.allan@gmail.com
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

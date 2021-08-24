@@ -1,0 +1,6 @@
+# remove .settings/
+.settings
+# remove .project
+.project
+# remove .classpath
+.classpath
